@@ -1,5 +1,5 @@
 # A Beginner's Guide to Working with OCLC APIs
-## OCLC DEVCONNECT 2018: Pre-Conference Workshop
+## WMS User Group - West Coast: Pre-Conference Workshop
 ### Tutorial Part 4 - MVC Project Organization
 	
 #### Model View Controller
