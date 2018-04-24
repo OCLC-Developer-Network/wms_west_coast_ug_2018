@@ -1,0 +1,5 @@
+/node_modules/
+/.project
+/config.yml
+/prod_config_encrypted.txt
+/prod_config.yml
