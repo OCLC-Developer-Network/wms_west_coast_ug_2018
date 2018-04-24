@@ -32,8 +32,6 @@ const nodeauth = require("nodeauth");
 const Bib = require("./bib.js")
 const BibError = require("./BibError.js")
 
-const isLambda = !!(process.env.LAMBDA_TASK_ROOT || false);
-
 ```
 
 4. Configure the application
