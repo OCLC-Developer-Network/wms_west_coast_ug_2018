@@ -60,7 +60,7 @@ $ npm install
 	   ```
         /node_modules/
         /.project
-        /config.yml
+        /prod_config.yml
 	   ```
 	4. Save the file.
 9. We're now ready to commit our changes to GitHub. To view local changes not yet commited, enter this command:
