@@ -9,14 +9,14 @@
     "test": "mocha"
 ```
 
-3. Create a directory within `tests` called `mocks`
+3. Create a directory within `test` called `mocks`
     1. Add the following files to `mocks` containing the linked code
-        1. [bibResponse](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_westcoast/master/tests/mocks/bibResponse.xml)
-        2. [errorMock](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_westcoast/master/tests/mocks/errorMock.js)
-        3. [errorResponse](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_westcoast/master/tests/mocks/errorResponse.xml)
-        4. [errorResponse_403](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_westcoast/master/tests/mocks/errorResponse_403.xml)
-        5. [errorResponse_404](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_westcoast/master/tests/mocks/errorResponse_404.xml)
-        6. [access_token_response](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_westcoast/master/tests/mocks/access_token.json)
+        1. [bibResponse](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_west_coast_ug_2018/master/test/mocks/bibResponse.xml)
+        2. [errorMock](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_west_coast_ug_2018/master/tests/mocks/errorMock.js)
+        3. [errorResponse](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_west_coast_ug_2018/master/tests/mocks/errorResponse.xml)
+        4. [errorResponse_403](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_west_coast_ug_2018/master/tests/mocks/errorResponse_403.xml)
+        5. [errorResponse_404](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_west_coast_ug_2018/master/tests/mocks/errorResponse_404.xml)
+        6. [access_token_response](https://raw.githubusercontent.com/OCLC-Developer-Network/wms_west_coast_ug_2018/master/tests/mocks/access_token.json)
 
 #### Write your first test
 
